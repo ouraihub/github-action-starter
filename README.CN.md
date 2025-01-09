@@ -2,6 +2,8 @@
 
 这是一个综合性的指南和示例项目，展示了 GitHub 最佳实践，包括 Actions 工作流、多平台代码同步和自动化部署。
 
+[English Documentation](README.md)
+
 ## 功能特性
 
 - **多平台代码同步**：自动同步代码到多个平台，如 Gitee、GitCode、Coding 等

@@ -1,6 +1,8 @@
 # github-action-starter
 A comprehensive guide and example project demonstrating GitHub best practices, including Actions workflows, multi-platform code synchronization, and automated deployments.
 
+[中文文档](README.CN.md)
+
 ## Features
 
 - **Multi-Platform Code Synchronization**: Automatically sync your code to multiple platforms like Gitee, GitCode, Coding, etc.
